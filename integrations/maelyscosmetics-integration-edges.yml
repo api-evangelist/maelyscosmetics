@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/maelyscosmetics/integrations
+- https://n8n.io/integrations/maelyscosmetics/
+- https://composio.dev/toolkits/maelyscosmetics
+- https://monid.ai/tools/maelyscosmetics
+checked:
+- https://composio.dev/toolkits/maelyscosmetics
+- https://monid.ai/tools/maelyscosmetics
+- https://n8n.io/integrations/maelyscosmetics/
+- https://zapier.com/apps/maelyscosmetics/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
